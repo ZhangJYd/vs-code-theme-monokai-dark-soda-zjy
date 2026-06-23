@@ -12,7 +12,7 @@ A personal fork of [Monokai Dark Soda](https://github.com/AdamCaviness/vs-code-t
 |---|---|---|
 | **Extension ID** | `AdamCaviness.theme-monokai-dark-soda` | `zjy.theme-monokai-dark-soda-zjy` |
 | **Theme label** | Monokai Dark Soda | Monokai Dark Soda ZJY |
-| **Repository** | [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) | [zhangjunye/vs-code-theme-monokai-dark-soda-zjy](https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy) |
+| **Repository** | [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) | [ZhangJYd/vs-code-theme-monokai-dark-soda-zjy](https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy) |
 | **Publisher** | AdamCaviness | zjy |
 
 ### Changes in this fork
@@ -104,7 +104,7 @@ If you prefer the original theme without these customizations, install the upstr
 ext install AdamCaviness.theme-monokai-dark-soda
 ```
 
-Please report issues with **this fork** in [this repository](https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy/issues). For the original theme, use [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/issues).
+Please report issues with **this fork** in [this repository](https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy/issues). For the original theme, use [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/issues).
 
 ## License
 

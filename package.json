@@ -4,15 +4,15 @@
 	"description": "A fork of AdamCaviness/Monokai Dark Soda with brighter UI text, VS Code blue selection, and LSP-aware constant highlighting.",
 	"version": "1.2.1",
 	"publisher": "zjy",
-	"author": "zhangjunye",
+	"author": "ZhangJYd",
 	"license": "MIT",
-	"homepage": "https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy",
+	"homepage": "https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy"
+		"url": "https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy"
 	},
 	"bugs": {
-		"url": "https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy/issues"
+		"url": "https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy/issues"
 	},
 	"icon": "theme-monokai-dark-soda.png",
 	"keywords": ["monokai", "dark", "soda", "theme", "vscode", "cursor", "fork"],
