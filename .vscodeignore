@@ -1,0 +1,6 @@
+.vscode/**
+.git/**
+.github/**
+.gitignore
+**/*.vsix
+CODE_OF_CONDUCT.md

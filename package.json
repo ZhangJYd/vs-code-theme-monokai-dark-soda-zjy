@@ -1,22 +1,42 @@
 {
-	"name": "theme-monokai-dark-soda",
-	"displayName": "Monokai Dark Soda",
-	"description": "A dark theme with bright colors",
-	"version": "1.2.0",
-	"publisher": "AdamCaviness",
-	"repository": "https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda",
-    "icon": "theme-monokai-dark-soda.png",
-	"keywords": ["monokai", "dark", "soda", "theme", "vscode"],
+	"name": "theme-monokai-dark-soda-zjy",
+	"displayName": "Monokai Dark Soda ZJY",
+	"description": "A fork of AdamCaviness/Monokai Dark Soda with brighter UI text, VS Code blue selection, and LSP-aware constant highlighting.",
+	"version": "1.2.1",
+	"publisher": "zjy",
+	"author": "zhangjunye",
+	"license": "MIT",
+	"homepage": "https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy"
+	},
+	"bugs": {
+		"url": "https://github.com/zhangjunye/vs-code-theme-monokai-dark-soda-zjy/issues"
+	},
+	"icon": "theme-monokai-dark-soda.png",
+	"keywords": ["monokai", "dark", "soda", "theme", "vscode", "cursor", "fork"],
 	"engines": {
-		"vscode": "^0.10.1"
+		"vscode": "^1.60.0"
+	},
+	"galleryBanner": {
+		"color": "#242424",
+		"theme": "dark"
 	},
 	"categories": [
 		"Themes"
 	],
 	"contributes": {
+		"configurationDefaults": {
+			"editor.semanticHighlighting.enabled": true,
+			"gopls": {
+				"ui.semanticTokens": true
+			},
+			"rust-analyzer.semantics.highlighting.enable": true
+		},
 		"themes": [
 			{
-				"label": "Monokai Dark Soda",
+				"label": "Monokai Dark Soda ZJY",
 				"uiTheme": "vs-dark",
 				"path": "./themes/monokai-dark-soda-color-theme.json"
 			}

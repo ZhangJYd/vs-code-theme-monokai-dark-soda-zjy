@@ -1,5 +1,22 @@
 # Change Log
-All notable changes to the Monokai Dark Soda theme will be documented in this file.
+
+All notable changes to **Monokai Dark Soda ZJY** (this fork) are documented here.
+Upstream history for the original theme is preserved below.
+
+## 1.2.1 - 2026-06-23 (ZJY fork)
+
+Fork of [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) v1.2.0.
+
+- Brighter sidebar, file tree, and terminal foreground colors
+- VS Code-style blue selection and list focus colors
+- Improved word-occurrence highlighting with softer light-blue borders
+- Constants use classic Monokai purple (`#AE81FF`) instead of `#FF80F4`
+- Go `const` and enum member highlighting via TextMate scopes and semantic tokens
+- Published as `zjy.theme-monokai-dark-soda-zjy`
+
+---
+
+## Upstream: Monokai Dark Soda
 
 ## 1.2.0 - 2023-04-04
 - Reverted to original colors based on feedback!
