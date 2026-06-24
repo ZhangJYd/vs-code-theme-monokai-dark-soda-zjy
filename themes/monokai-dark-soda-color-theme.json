@@ -42,6 +42,8 @@
 		"menu.selectionForeground": "#ffffff",
 		"selection.background": "#264f78",
 		"focusBorder": "#ffffff66",
+		"editorBracketMatch.background": "#00000000",
+		"editorBracketMatch.border": "#D4AF37",
 		"editorLineNumber.foreground": "#858585",
 		"editorLineNumber.activeForeground": "#c6c6c6",
 		"list.hoverBackground": "#2a2d2e",
