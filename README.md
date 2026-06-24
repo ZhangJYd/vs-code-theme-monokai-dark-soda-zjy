@@ -85,8 +85,8 @@ Go-specific (also enabled by this theme's defaults):
 
 Palette      | Hex       | Notes
 ---          | ---       | ---
-Background   | `#242424` |
-Current Line | `#3D3D3D` |
+Background   | `#272822` | Monokai black-green
+Current Line | `#3E3D32` |
 Selection    | `#264f78` | VS Code-style blue (fork change)
 Comment      | `#8C8C8C` |
 Foreground   | `#F8F8F2` |

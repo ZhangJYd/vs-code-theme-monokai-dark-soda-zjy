@@ -20,7 +20,7 @@
 		"vscode": "^1.60.0"
 	},
 	"galleryBanner": {
-		"color": "#242424",
+		"color": "#272822",
 		"theme": "dark"
 	},
 	"categories": [
