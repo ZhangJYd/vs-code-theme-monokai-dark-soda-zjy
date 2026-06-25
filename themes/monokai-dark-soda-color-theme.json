@@ -47,6 +47,21 @@
 		"titleBar.inactiveBackground": "#3d3e3699",
 		"titleBar.activeForeground": "#e8e8e2",
 		"titleBar.inactiveForeground": "#e8e8e299",
+		"statusBar.background": "#007acc",
+		"statusBar.foreground": "#ffffff",
+		"statusBar.debuggingBackground": "#cc6633",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#68217a",
+		"statusBar.noFolderForeground": "#ffffff",
+		"statusBarItem.activeBackground": "#ffffff2e",
+		"statusBarItem.hoverBackground": "#ffffff1f",
+		"statusBarItem.prominentBackground": "#00000080",
+		"statusBarItem.prominentForeground": "#ffffff",
+		"statusBarItem.prominentHoverBackground": "#0000004d",
+		"statusBarItem.remoteBackground": "#007acc",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBarItem.errorBackground": "#c72e0f",
+		"statusBarItem.errorForeground": "#ffffff",
 		"terminal.background": "#1f201a",
 		"terminal.foreground": "#e8e8e2",
 		"terminal.ansiWhite": "#f0f0ea",
@@ -716,8 +731,7 @@
 		{
 			"scope": "namespace, entity.name.namespace, entity.name.type.namespace, support.other.namespace, meta.namespace, meta.package, keyword.other.package, storage.modifier.package",
 			"settings": {
-				"foreground": "#FFB2F9",
-				"fontStyle": "italic"
+				"foreground": "#569CD6"
 			}
 		},
 		{
