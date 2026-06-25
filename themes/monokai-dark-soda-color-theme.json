@@ -714,9 +714,10 @@
 			}
 		},
 		{
-			"scope": "support.other.namespace, entity.name.type.namespace",
+			"scope": "namespace, entity.name.namespace, entity.name.type.namespace, support.other.namespace, meta.namespace, meta.package, keyword.other.package, storage.modifier.package",
 			"settings": {
-				"foreground": "#FFB2F9"
+				"foreground": "#FFB2F9",
+				"fontStyle": "italic"
 			}
 		},
 		{
