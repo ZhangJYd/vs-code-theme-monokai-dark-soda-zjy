@@ -32,7 +32,9 @@
 			"gopls": {
 				"ui.semanticTokens": true
 			},
-			"rust-analyzer.semantics.highlighting.enable": true
+			"rust-analyzer.semantics.highlighting.enable": true,
+			"markdown-mermaid.darkModeTheme": "dark",
+			"mermaid.vscode.dark": "dark"
 		},
 		"themes": [
 			{
