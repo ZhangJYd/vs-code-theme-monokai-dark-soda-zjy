@@ -18,7 +18,8 @@ A personal fork of [Monokai Dark Soda](https://github.com/AdamCaviness/vs-code-t
 ### Changes in this fork
 
 - Brighter sidebar and terminal text
-- VS Code-style blue selection and accent colors
+- Soft gray-white selection and list focus colors (replacing VS Code blue)
+- Softer peek/reference match highlights and visible chat input borders (Cursor)
 - Softer, more visible word-occurrence highlighting
 - Classic Monokai purple (`#AE81FF`) for constants across LSP-supported languages
 - Semantic token rules for `readonly`, `enumMember`, and static constants (Go, Python, TypeScript, Rust, Java, C#, etc.)
@@ -87,7 +88,7 @@ Palette      | Hex       | Notes
 ---          | ---       | ---
 Background   | `#272822` | Monokai black-green
 Current Line | `#3E3D32` |
-Selection    | `#264f78` | VS Code-style blue (fork change)
+Selection    | `#ffffff20` | Semi-transparent gray-white (fork change)
 Comment      | `#8C8C8C` |
 Foreground   | `#F8F8F2` |
 String       | `#FFEE99` |

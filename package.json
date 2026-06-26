@@ -1,8 +1,8 @@
 {
 	"name": "theme-monokai-dark-soda-zjy",
 	"displayName": "Monokai Dark Soda ZJY",
-	"description": "A fork of AdamCaviness/Monokai Dark Soda with brighter UI text, VS Code blue selection, and LSP-aware constant highlighting.",
-	"version": "1.2.1",
+	"description": "A fork of Monokai Dark Soda with brighter UI text, soft gray-white selection, Cursor chat tweaks, and LSP-aware constant highlighting.",
+	"version": "1.2.2",
 	"publisher": "zjy",
 	"author": "ZhangJYd",
 	"license": "MIT",

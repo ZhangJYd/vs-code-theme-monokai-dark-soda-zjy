@@ -3,6 +3,14 @@
 All notable changes to **Monokai Dark Soda ZJY** (this fork) are documented here.
 Upstream history for the original theme is preserved below.
 
+## 1.2.2 - 2026-06-25 (ZJY fork)
+
+- Selection and list focus colors changed from VS Code blue to semi-transparent gray-white
+- Softer peek/reference match highlights (`peekViewEditor`, `peekViewResult`)
+- Visible unfocused input borders for chat and panel inputs (`input`, `panelInput`, `agentsChatInput`)
+- Unified panel and dropdown border colors; minimap and peek result selection aligned with new selection palette
+- Improved inactive (unfocused window) selection visibility
+
 ## 1.2.1 - 2026-06-23 (ZJY fork)
 
 Fork of [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) v1.2.0.
