@@ -3,7 +3,7 @@
 	"displayName": "Monokai Dark Soda ZJY",
 	"description": "A fork of Monokai Dark Soda with brighter UI text, soft gray-white selection, Cursor chat tweaks, and LSP-aware constant highlighting.",
 	"version": "1.2.3",
-	"publisher": "zjy",
+	"publisher": "junyezhang",
 	"author": "ZhangJYd",
 	"license": "MIT",
 	"homepage": "https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy",

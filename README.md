@@ -10,10 +10,10 @@ A personal fork of [Monokai Dark Soda](https://github.com/AdamCaviness/vs-code-t
 
 | | Upstream | This fork |
 |---|---|---|
-| **Extension ID** | `AdamCaviness.theme-monokai-dark-soda` | `zjy.theme-monokai-dark-soda-zjy` |
+| **Extension ID** | `AdamCaviness.theme-monokai-dark-soda` | `junyezhang.theme-monokai-dark-soda-zjy` |
 | **Theme label** | Monokai Dark Soda | Monokai Dark Soda ZJY |
 | **Repository** | [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) | [ZhangJYd/vs-code-theme-monokai-dark-soda-zjy](https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy) |
-| **Publisher** | AdamCaviness | zjy |
+| **Publisher** | AdamCaviness | junyezhang |
 
 ### Changes in this fork
 

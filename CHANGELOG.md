@@ -8,6 +8,7 @@ Upstream history for the original theme is preserved below.
 - Tuned workbench and terminal text selection colors for rename inputs, chat, and terminal
 - New extension icon (`theme-monokai-dark-soda-zjy.png`) using the theme palette
 - README preview screenshot updated
+- Publisher changed to `junyezhang` (extension ID: `junyezhang.theme-monokai-dark-soda-zjy`)
 
 ## 1.2.2 - 2026-06-25 (ZJY fork)
 
