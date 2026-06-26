@@ -3,6 +3,12 @@
 All notable changes to **Monokai Dark Soda ZJY** (this fork) are documented here.
 Upstream history for the original theme is preserved below.
 
+## 1.2.3 - 2026-06-25 (ZJY fork)
+
+- Tuned workbench and terminal text selection colors for rename inputs, chat, and terminal
+- New extension icon (`theme-monokai-dark-soda-zjy.png`) using the theme palette
+- README preview screenshot updated
+
 ## 1.2.2 - 2026-06-25 (ZJY fork)
 
 - Selection and list focus colors changed from VS Code blue to semi-transparent gray-white

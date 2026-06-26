@@ -2,7 +2,7 @@
 	"name": "theme-monokai-dark-soda-zjy",
 	"displayName": "Monokai Dark Soda ZJY",
 	"description": "A fork of Monokai Dark Soda with brighter UI text, soft gray-white selection, Cursor chat tweaks, and LSP-aware constant highlighting.",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"publisher": "zjy",
 	"author": "ZhangJYd",
 	"license": "MIT",
@@ -14,7 +14,7 @@
 	"bugs": {
 		"url": "https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy/issues"
 	},
-	"icon": "theme-monokai-dark-soda.png",
+	"icon": "theme-monokai-dark-soda-zjy.png",
 	"keywords": ["monokai", "dark", "soda", "theme", "vscode", "cursor", "fork"],
 	"engines": {
 		"vscode": "^1.60.0"

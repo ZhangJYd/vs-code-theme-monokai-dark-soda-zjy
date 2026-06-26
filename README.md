@@ -4,7 +4,7 @@ A personal fork of [Monokai Dark Soda](https://github.com/AdamCaviness/vs-code-t
 
 > This theme traces back to the excellent [Monokai Dark Soda TextMate theme](https://github.com/mrlundis/Monokai-Dark-Soda.tmTheme) by mrlundis.
 
-![](theme-monokai-dark-soda.png)
+![](theme-monokai-dark-soda-zjy-preview.png)
 
 ## Fork Information
 
