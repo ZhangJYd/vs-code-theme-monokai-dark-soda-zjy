@@ -3,5 +3,5 @@ name = "Monokai Dark Soda ZJY"
 version = "1.0.0"
 schema_version = 1
 authors = ["ZhangJYd"]
-description = "A Monokai Dark Soda fork with brighter UI text, soft gray-white selection, and classic Monokai purple constants."
+description = "A Monokai Dark Soda fork with brighter UI text, soft gray-white selection, classic Monokai purple constants, and an optional blurred variant."
 repository = "https://github.com/ZhangJYd/vs-code-theme-monokai-dark-soda-zjy"
